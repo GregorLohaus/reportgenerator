@@ -1,0 +1,10 @@
+imager/node_modules
+generatereport.ipynb
+imager/.cache
+.DS_Store
+__pycache__
+reportgenerator.egg-infodist
+dist
+reportgenerator.egg-info/
+reportgenerator/__pycache__/
+
